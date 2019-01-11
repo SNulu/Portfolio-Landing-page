@@ -7,3 +7,24 @@ img {
   height: 250px;
   width: 250px;
 }
+
+.Background {
+
+  color: red;
+}
+
+.Interest {
+
+  color: purple;
+}
+
+body {
+  font-family: sans-serif;
+  border: 12px solid #b38f00;
+  border: 12px solid #b38f00;
+
+  padding: 12px;
+  background-color: #4d004d;
+  height:inherit;
+  width: 100%;
+}
