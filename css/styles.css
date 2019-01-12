@@ -39,3 +39,12 @@ body {
   height:inherit;
   width: 100%;
 }
+
+strong {
+  font-family: monospace;
+}
+
+em
+{
+  font-family: monospace;
+}
