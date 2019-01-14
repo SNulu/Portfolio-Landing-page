@@ -6,6 +6,7 @@
 
 ## Description
 _Portfolio LandingPage is written using HTML, Bootstrap and css Technology. Its a website site that displays this weeks class objectives. The content is mainly about myself_
+link: [Portfolio](https://SNulu.github.io/Portfolio-Landing-page/)
 
 ## Setup/Installation Requirements
 * _Clone this repository_
